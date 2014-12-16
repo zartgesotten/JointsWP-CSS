@@ -1,6 +1,8 @@
 Find out more here: www.jointswp.com  
 Demo: www.jointswp.com/demo
 
+Just editing!
+
 ### A blank, Foundation 5 WordPress theme 
 A project by [@jeremyenglert](https://twitter.com/jeremyenglert) of The Ad Garage. [Follow me](https://twitter.com/jeremyenglert) on Twitter to keep up-to-date with JointsWP.
 
